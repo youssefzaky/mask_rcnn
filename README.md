@@ -1,5 +1,11 @@
-# mask_rcnn
+# Mask-RCNN implementation in PyTorch
 
-# to do
-- subclass resnet nicely
+# Completed
+- bounding box inference using pretrained Detectron weights
+
+# To-Do
+- batch inference
+- evaluation
+- training
+- masks
 
